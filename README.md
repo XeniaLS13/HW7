@@ -34,3 +34,5 @@ m = 3, n = 4.
 5 9 2 3
 8 4 2 4
 Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3.
+
+[КОД](https://github.com/XeniaLS13/HW7/blob/main/Task3/Program.cs)
